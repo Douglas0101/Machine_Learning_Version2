@@ -1,0 +1,3 @@
+PlantaID;Nome_Planta;Localizacao;Data_Inspecao;Nivel_Radiacao;Temperatura_Reator;Pressao_Reator;Eficiência_Operacional;Falhas_Detectadas;Custo_Manutencao;Status_Operacional;Potencia_Gerada
+NUC-00001;Angra 1;RJ - Brasil;2023-01-01;3.5;400.0;150.0;95.0;0;100.0;Operando;80.0
+NUC-00002;Reator Atlântico;;;999.0;2000.0;10.0;10.0;10;999999.0;Em Manutenção;999.0

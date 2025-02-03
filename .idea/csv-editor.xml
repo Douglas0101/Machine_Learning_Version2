@@ -3,17 +3,24 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/data/finance_dataset.csv">
+        <entry key="/data/dataset_bancario_avancado.csv">
           <value>
             <Attribute>
-              <option name="separator" value="," />
+              <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>
-        <entry key="/generators/hospital_dataset.csv">
+        <entry key="/data/dataset_energia_nuclear_avancado.csv">
           <value>
             <Attribute>
-              <option name="separator" value="," />
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/dataset_hospitalar_avancado.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>

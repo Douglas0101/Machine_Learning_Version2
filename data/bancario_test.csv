@@ -1,0 +1,4 @@
+ContaID;Agencia;Tipo_Conta;Nome_Cliente;CPF_Cliente;Data_Abertura;Saldo_Atual;Limite_Credito;Data_Ultimo_Movimento;Status_Conta;Score_Credito;Renda_Mensal
+10000-A;1234;Corrente;Alice;123.456.789-10;2015-01-01;5000.5;1000.0;2023-01-01;Ativa;300;3000.0
+20000-B;9999;Poupança;;;2020-05-10;-2000.1;;;Em Atraso;800;1500.0
+30000-C;;;Carlos;987.654.321-00;2010-12-31;9999999.0;20000.0;2023-04-10;;1200;

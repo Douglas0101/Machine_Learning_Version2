@@ -1,0 +1,5 @@
+PacienteID;Nome;CPF;Data_Nascimento;Genero;Data_Admissao;Data_Alta;Diagnostico;Procedimento;Quantidade_Exames;Custo_Total;Medico_Responsavel
+HOSP-00001;Maria Silva;123.456.789-10;1980-05-10;Feminino;2022-01-10;2022-01-12;Pneumonia;Cirurgia;5.0;1000.0;Dr(a). Martins
+HOSP-00002;João Santos;111.222.333-44;1970-01-01;;2022-01-15;2022-01-20;Fratura;Observação;;200000.0;Dr(a). Lemos
+HOSP-00003;Ana Pereira;;;Masculino;2022-02-01;2022-03-01;;Fisioterapia;50.0;500.0;Dr(a). Costa
+HOSP-00004;;333.222.111-55;2000-12-31;Feminino;2022-02-05;2022-02-20;Covid-19;Antibióticos;2.0;;Dr(a). Xavier
